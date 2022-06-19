@@ -1,2 +1,2 @@
 # calculoGasolina
-programa para calcular o consumo de combustível de um carro. 
+Programa para calcular o consumo de combustível de um carro. 
